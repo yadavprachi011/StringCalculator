@@ -1,7 +1,9 @@
 # Implement the TDD for given requirement:
 
 #TDD Phase
+
 -First, we write a test that represents a specific requirement of the functionality we’re trying to implement.
+
 -We then make the test pass, writing the minimum amount of code we can get away with.
 
 # Implementation 
